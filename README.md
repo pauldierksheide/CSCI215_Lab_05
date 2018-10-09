@@ -26,7 +26,7 @@ In this lab we'll use JavaScript to access to the DOM and dynamically add elemen
  1. Using the `createElement` method, create a new ordered list (\<ol\>) node and then assign the returned node object to new variable named `olNode`.
  2. Using the `createElement` method, create a new list item (\<li\>) node and then assign the returned node object to a new variable named `liNode1`.
  3. Using the `createElement` method, create a new list item (\<li\>) node and then assign the returned node object to a new variable named `liNode2`.
- 4. Using the `createTextNode` method, create a new text node with value "Read Assignment" and then assign the returned node object to a new variable named `liTextNode2`.
+ 4. Using the `createTextNode` method, create a new text node with value "Read Assignment" and then assign the returned node object to a new variable named `liTextNode1`.
  5. Using the `createTextNode` method, create a new text node with value "Code Assignment" and then assign the returned node object to a new variable named `liTextNode2`.
  6. Using the `appendChild` method, append the child node `liTextNode1` to parent node `liNode1`.
  7. Using the `appendChild` method, append the child node `liTextNode2` to parent noed `liNode2`.
